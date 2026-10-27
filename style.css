@@ -214,14 +214,12 @@ h1, h2, h3 { font-weight: 800; }
 #hasil-member { margin-top: 16px; }
 #hasil-member p { margin-bottom: 4px; }
 
-/* ===== Footer identitas ===== */
 .identitas { margin-bottom: 14px; }
 .nama-mhs { font-size: 1.15rem; font-weight: 800; color: #fff; transition: color .2s, letter-spacing .2s; }
 .nim { color: var(--amber); font-weight: 700; }
 .nama-mhs:hover { color: var(--amber); letter-spacing: .04em; }
 .hak { font-size: .85rem; opacity: .8; }
 
-/* ===== Efek hover ===== */
 .logo { display: inline-block; transition: transform .2s; }
 .logo:hover { transform: rotate(-3deg) scale(1.08); }
 
